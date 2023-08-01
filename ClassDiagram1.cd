@@ -1,0 +1,79 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="twitter_test.MyClass">
+    <Position X="2.75" Y="0.5" Width="1.5" />
+    <NestedTypes>
+      <Enum Name="twitter_test.MyClass.keys" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>MyClass.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Enum>
+    </NestedTypes>
+    <TypeIdentifier>
+      <HashCode>AAAAACABAAAAAAAAAAAAAAQAAAAAAAABAAAAAAAAAEA=</HashCode>
+      <FileName>MyClass.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="twitter_test.Create_tweet">
+    <Position X="4.75" Y="0.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAABAAACABABEAAACAAIBCAAA4AAAABHQQAIDAAQA=</HashCode>
+      <FileName>Create_tweet.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="twitter_test.Hometimeline">
+    <Position X="9.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AACAAJAAACAFAFAABACCAABCAAAIQAgAAEAEAKDAAwA=</HashCode>
+      <FileName>Hometimeline.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="twitter_test.Login">
+    <Position X="12.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAACAgAADICIAAAAACAAABiAIAACAAAAABgAACAAQA=</HashCode>
+      <FileName>Login.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="twitter_test.Main_menu">
+    <Position X="0.5" Y="1.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAACAAoCCICIAAAhACAAABCAAEAAAEAAACAACCBAQA=</HashCode>
+      <FileName>Main_menu.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="twitter_test.Program">
+    <Position X="7.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAA=</HashCode>
+      <FileName>Program.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="twitter_test.Search_box">
+    <Position X="7.5" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ACAAABAAACAAAAAAAADCgABCAACAABAAAAAAACJAAAA=</HashCode>
+      <FileName>Search_box.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="twitter_test.Search_Timeline">
+    <Position X="2.75" Y="3.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AACAABAAACAFAFACBACAAARCAAAIQBgAAAQEACDAAwA=</HashCode>
+      <FileName>Search_Timeline.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="twitter_test.Properties.Resources">
+    <Position X="6.5" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAABEAAAAQAAAAAAAAAAAAAAAIA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="twitter_test.Properties.Settings">
+    <Position X="11.25" Y="5.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAIAAAAAABAAAAAAAAAAAAAAA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
